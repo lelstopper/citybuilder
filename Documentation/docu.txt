@@ -1,0 +1,25 @@
+for generation of districts
+
+voxel based image grammar
+ - blue > resi
+ - red > comm
+ - yellow > industry
+ - green > office
+ - purple > misc.
+ 
+ preset templates can be applied with minor distortion
+ alternatively, voronoi with mild distortion can be applied
+ 
+ image grammar can be generated with GLSL or OSL
+ 
+ 
+ templates - 
+ american - downtown etc
+ radial
+ biome based - voronoi
+ custom 	
+ 
+ the python behind the pixelate function in bpy can be used to generate these masks
+ 
+ 
+ L-systems for roads 
